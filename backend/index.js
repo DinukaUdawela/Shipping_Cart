@@ -6,7 +6,7 @@ const port = 5000;
 // Enable CORS
 app.use(cors());
 
-// Hardcoded data
+//Hardcoded data
 const categories = ['Electronics', 'Books', 'Clothing', 'Food'];
 const products = [
     { id: 1, name: 'Laptop', category: 'Electronics', image: '/images/laptop.jpg' },
