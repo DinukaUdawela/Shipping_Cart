@@ -11,7 +11,8 @@ const products = [
     { id: 9, name: 'Orange', category: 'Food', image: '/images/orange.jpg' },
     { id: 10, name: 'Smartwatch', category: 'Electronics', image: '/images/watch.png' },
     { id: 11, name: 'Running Shoes', category: 'Clothing', image: '/images/shoes.jpg' },
-    { id: 12, name: 'Cookbook', category: 'Books', image: '/images/cookbook.jpg' }
+    { id: 12, name: 'Cookbook', category: 'Books', image: '/images/cookbook.jpg' },
+    { id: 13, name: 'Legin', category: 'Clothing', image: '/images/denim.jpg' }
 ];
 
 module.exports = { products, categories };
